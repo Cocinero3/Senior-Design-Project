@@ -1,0 +1,3 @@
+- As a driver, I want the information wirelessly sent from my vehicle regulated so that my user data and privacy is kept private to me unless otherwise specified
+- As an application user, I want to easily be able to find what signals my car is sending and give me enough detail on each option so that I know the consequences of disabling each 
+- As an installer of this product, I want there to be clear instructions online on how to install this product and for it not to require a physical device so that my vehicle environment stays the same as it was before

@@ -1,4 +1,4 @@
-### Team Name: CrazyCoci
+### Team Name: Sage
 ## Members:
 **Tucker Cook
 - Email: cook2tc@mail.uc.edu
