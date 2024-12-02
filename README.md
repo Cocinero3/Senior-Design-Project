@@ -1,25 +1,17 @@
-### Team Name: Sage
-## Members:
-**Tucker Cook
-- Email: cook2tc@mail.uc.edu
-- Studying computer science
-
-Ayush Verma
-- Email: vermaa5@mail.uc.edu
-- Studying computer science
-
-## Project Topic Area:
-Currently, the thesis of our project is to address increasing security and data privacy concerns in relation to user information in automotive vehicles. 
-
-One of the main inspirations for this topic is [this article](https://www.carscoops.com/2024/07/toyota-wont-cover-gr-corolla-fire-damage-claims-tires-rated-below-85-mph/) pertaining to *Toyota* denying a customer warranty on their car on the basis of information the car sent back to *Toyota* that the vehicle had gone over 85 miles per hour at one point in it's lifetime.
-
-In automotive going forward, it's likely cases like these will become more common as cars become more integrated with software and networks. These cars are then able to send information back to the OEMs (original equipment manufactures) and insurance companies.
-
-Our solution to this is a "car VPN" approach. We would like to utilize this project to find a way to regulate the data packets sent from vehicles to protect user information and cases like the article above where sent vehicle data is unfoundedly used against them.
-
-Tools and areas of interest for us in this project would be:
-	- Android OS development & tools
-	- Java
-	- WireShark
-	- Arduino
-	- Python
+# SageVPN
+The goal of our project is to address increasing security and data privacy concerns that arise from the use of wireless networks in automotive vehicles. Our approach is an Android application running natively on vehicle hardware that will allow drivers to regulate which signals make it to their destinations. 
+### Table of Contents
+1. [Team Names](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Project-Description.md) & [Project Abstract](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Project-Description.md)
+2. [Project Description](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Project-Description.md)
+3. [User Stories](https://github.com/Cocinero3/Senior-Design-Project/blob/main/User%20Stories.md) & [Design Diagrams](https://github.com/Cocinero3/Senior-Design-Project/tree/main/Design%20Diagrams)
+4. [Project Tasks](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Task%20List.md) & [Timeline](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Timeline.md) & [Effort Matrix](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Effort%20Matrix.md)
+5. [Project Constraints](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Homework%20Essays/Project%20Constraints%20Essay.md)
+6. [Fall Presentation](https://docs.google.com/presentation/d/1Bp581N3YD7HBZvcZzy_KhqP3G8TjJmi4MK0eIZMQlPM/edit?usp=sharing)
+7. [Team Contract](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Homework%20Essays/Senior%20Project%20Team%20Contract%20Draft.pdf) & Capstone Assignments:
+	- [Tucker](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Homework%20Essays/Tucker%20Capstone%20Assignment.pdf)
+	- [Ayush](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Homework%20Essays/Ayush%20Capstone%20Assessment.pdf)
+8. Professional Biographies
+	- [Tucker](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Tucker%20Cook%20Professional%20Biography.md)
+	- [Ayush](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Ayush%20Verma%20Biography.md)
+9. [Budget](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Budget.md)
+10. [Appendix](https://github.com/Cocinero3/Senior-Design-Project/blob/main/Appendix.md)
