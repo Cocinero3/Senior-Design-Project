@@ -1,4 +1,4 @@
-*Appendix
+# Appendix
 ## Tools
 - https://developer.android.com/studio
 - https://kotlinlang.org/
