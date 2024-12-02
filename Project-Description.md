@@ -1,6 +1,6 @@
 ### Team Name: Sage
 ## Members:
-**Tucker Cook
+Tucker Cook
 - Email: cook2tc@mail.uc.edu
 - Studying computer science
 
