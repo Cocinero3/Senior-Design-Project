@@ -12,4 +12,3 @@
 | 8   | Implement logic to block/spoof signals to IP destinations                                                       | Tucker    | 6          |
 | 9   | Implement logic to save user settings in a 'default settings file' each drive cycle upon restarting application | Tucker    | 6          |
 | 10  | Deploy application from Android environment to vehicle environment                                              | Tucker    | 15         |
-![[Effort Matrix.png]]
