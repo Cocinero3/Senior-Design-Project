@@ -4,7 +4,6 @@ This document aims to be the one stop shop regarding any relevant and helpful in
 
 ## Table of Contents
 
-insert hyperlinks for each completed section within this document
 - [What is SageVPN?](url)
 - [User manual](url)
 - [User Documentation](url)
