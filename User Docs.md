@@ -19,8 +19,9 @@ Provided are steps to install, run the application for the first time, and view 
 
 ### Installing SageVPN
 
-Download APK from Google Play Store
-Donload APK from SageVPN repository
+[Download APK from Google Play Store](url)
+
+[Download APK from SageVPN repository](url)
 
 ### First-Time Running SageVPN
 
@@ -33,8 +34,12 @@ To be filled out with steps once UI is more complete.
 
 ## User Documentation
 
+## Getting Your Vehicle Ready for SageVPN
+- Here the steps necessary to configure infotainment for applicaiton functionality, i.e. steps to root your device.
+
 ### Vehicle Requirements
 Vehicle infotainment must utilize Android operating system, find steps to determine this [here](url).
 
 ### Troubleshooting
 To be filled out more further in development
+
