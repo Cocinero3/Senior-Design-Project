@@ -35,7 +35,7 @@ To be filled out with steps once UI is more complete.
 ## User Documentation
 
 ## Getting Your Vehicle Ready for SageVPN
-- Here the steps necessary to configure infotainment for applicaiton functionality, i.e. steps to root your device.
+- Steps necessary to configure Android settings that allow SageVPN to work, i.e. steps to root your device.
 
 ### Vehicle Requirements
 Vehicle infotainment must utilize Android operating system, find steps to determine this [here](url).
