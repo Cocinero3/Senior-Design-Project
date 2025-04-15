@@ -29,4 +29,22 @@
 | Project Source Code Development  | 16          |
 | Meetings with Advisors           | 3           |
 ## Spring Semester Work Record
--N/A 12/1/24
+| **Tucker**                       |             |
+| -------------------------------- | ----------- |
+| Work Description                 | Hours Spent |
+| Senior Design Course Assignments | 10          |
+| Research & Self-Learning         | 15          |
+| Project Source Code Development  | 15          |
+| Meetings with Advisors           | 5           |
+
+| **Ayush**                        |             |
+| -------------------------------- | ----------- |
+| Work Description                 | Hours Spent |
+| Senior Design Course Assignments | 4           |
+| Research & Self-Learning         | 18          |
+| Project Source Code Development  | 20          |
+| Meetings with Advisors           | 3           |
+## Totals
+- **Tucker**: 90 hours
+- **Ayush**: 90 hours
+- **Project**: 180 hours
