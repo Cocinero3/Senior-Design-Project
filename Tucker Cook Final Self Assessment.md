@@ -1,5 +1,7 @@
 #### Tucker Cook
+
 cook2tc@mail.uc.edu
+
 4/14/25
 ## Part A:
 My main contributions to this project was the idea itself, configuring test environments for our software, both emulated and actual vehicle environment, and ensuring all of our deliverables for expo/course were made. From my fall assessment, I would say I'm much more knowledgeable about various aspects of Android development, how In-vehicle infotainment systems operate, and the networking protocols that dictate the issue our project was trying to address. Most of my course work applicable to this project actually occurred the semester before & during my senior design work, specifically utilizing fundamentals from computer networking and operating systems.
